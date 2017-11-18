@@ -1,4 +1,4 @@
-ubuntu:16.04
+FROM ubuntu:16.04
 
 LABEL maintainer="xiaobo <peterwillcn@gmail.com>" version="0.1.1" \
   description="This is eosio/eos image" website="https://eos.io" \
